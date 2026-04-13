@@ -237,12 +237,23 @@ plant-monitor/
 
 
 ----how to run----
+
+
 open one terminal and paste it
 
+
+
 cd plant-monitor/backend
+
+
+
 npm run dev
 
+
+
 open another terminal and paste it
+
+
 
 cd frontend
 npm install
