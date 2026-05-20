@@ -34,7 +34,7 @@ const char* COMMAND_URL   = "http://YOUR_SERVER_IP:5000/api/commands/pending";
 #define PUMP_ON_DURATION_MS   5000  
 
 
-#define DHT_TYPE DHT22
+#define DHT_TYPE DHT11
 DHT dht(DHT_PIN, DHT_TYPE);
 
 
