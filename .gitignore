@@ -17,7 +17,7 @@ out/
 # Environment variables (IMPORTANT)
 .env
 .env.*
-!.env.example
+
 
 # Local config
 *.local
