@@ -2,7 +2,7 @@
 SMART PLANT MONITOR - ESP8266 Firmware
 Pins:
 A0  → Soil Moisture Sensor (analog out)
-D1  → DHT22 Data Pin
+D1  → DHT11 Data Pin
 D5  → MOSFET Gate (Water Pump)
 D6  → Servo Motor Signal
 */
