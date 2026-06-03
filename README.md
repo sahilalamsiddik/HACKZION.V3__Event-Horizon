@@ -1,6 +1,7 @@
 # Smart Plant Monitor — Complete Build Guide
 
----
+
+#ruchitha
 
 ## STEP 1: Understand Your Components
 
